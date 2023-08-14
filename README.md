@@ -15,7 +15,7 @@ The primary objective of this project is to design a concept that streamlines an
 
 ## Getting Started
 
-1. **Clone this Repository**: `git clone <repository_url>`
+1. **Clone this Repository**: `git clone (https://github.com/gpradeep7898/VolkswagenBPR.git)`
 2. Navigate to the cloned directory.
 3. Open the respective PDF files to view the presentation and report.
 
