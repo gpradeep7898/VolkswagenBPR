@@ -6,11 +6,6 @@ This repository contains the presentation and report detailing the proposal for 
 
 The primary objective of this project is to design a concept that streamlines and optimizes the flow of materials in the production plant of Volkswagen AG. Through the principles of BPR and BPM, we aim to enhance efficiency, reduce waste, and ensure a seamless production process.
 
-## Contents
-
-1. [Presentation: BPR for Volkswagen AG](FINAL PPT_BPR _group5.pdf)
-2. [Detailed Report on the BPR Proposal](FINAL REPORT_group5 2.pdf)
-
 ## Key Highlights
 
 - Material Supply Chain Analysis
